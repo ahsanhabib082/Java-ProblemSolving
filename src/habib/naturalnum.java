@@ -10,6 +10,7 @@ public class naturalnum {
         int sum;
         sum=n*(n+1)/2;
         System.out.println(sum);
+        //..
 
 
     }
